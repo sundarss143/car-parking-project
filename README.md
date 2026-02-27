@@ -43,6 +43,22 @@ Occupancy Status Output
 
 ---
 
+# 📁 Project Structure
+
+```
+Smart_CarParking_Detection/
+│
+├── CarParkPos/                # Saved parking slot coordinates
+├── main.py                    # Main detection script
+├── ParkingSpacePicker.py      # Tool to mark parking slots
+├── carPark.mp4                # Sample parking video
+├── carParkImg.png             # Reference parking image
+├── README.md                  # Project documentation
+└── LICENSE                    # License file
+```
+
+---
+
 # 🛠️ Tech Stack
 
 Python
