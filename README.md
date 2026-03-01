@@ -165,7 +165,7 @@ Customizable parking slot configuration
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/Mr-Smb/Smart_CarParking_Detection.git
+git clone https://github.com/sundarss143/car-parking-project.git
 
 cd Smart_CarParking_Detection
 
@@ -223,7 +223,7 @@ Airport Parking Systems
 
 ## 👤 Author
 
-**Mr Smb**  
+**Sundarraja Ponnuru**  
 Software Developer & Vibe Coder   
 Focused on production ready Scalable Software Products
 
